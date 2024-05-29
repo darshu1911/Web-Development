@@ -1,0 +1,46 @@
+/* #box{
+    background-color: blue;
+    /* color: white; 
+} */
+
+/* .heading{
+    color: red;
+} */
+
+/* h1, h2, h3{
+    color: red;
+} */
+
+button{
+    background-color: green;
+    color: white;
+}
+
+p{
+    text-align: justify;
+}
+
+/* h1{
+    text-align: start;
+    text-decoration: underline green;
+} */
+
+a{
+    text-decoration: none;
+    font-size: 40px;
+}
+
+#h1{
+    font-weight: lighter;
+}
+
+#one{
+    font-family: Segoe UI;
+    text-transform: uppercase;
+}
+
+#two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: normal;
+}
