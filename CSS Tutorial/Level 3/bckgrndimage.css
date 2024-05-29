@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+body{
+    background-color: aquamarine;
+    /* background-image: url("ch.jpg");
+    background-size: cover; */
+}
+
+#Box1{
+    background-image: url("Cat.jpg");
+    background-size: cover;
+}
