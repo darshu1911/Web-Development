@@ -15,3 +15,20 @@ li{
     list-style-type: none; display: inline;
    
 }
+
+.Outer{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Inner{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    
+}
