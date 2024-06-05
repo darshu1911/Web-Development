@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111111;
+}
+.box{
+    margin: 0px 0px 22px 0px;
+    padding: 14px 18px 14px 18px;
+}
+.Box{
+    width: 350px;
+    /* height: 360px; */
+    background-color: #ffffff;
+    border: .8px solid rgba(210, 210, 210, 0.993);
+    border-radius: 8px;
+    position: relative;
+    left: 550px;  
+    top: 75px; 
+}
+
+.signin{
+    height: 320px;
+    width: 300px;
+    padding: 20px 26px 20px 26px; 
+}
+
+p{
+    width: 295px;
+    height: 35px;
+    margin: 0px 0px 10px;
+    padding: 0px 0px 4px;
+    font-size: 28px;
+}
