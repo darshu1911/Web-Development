@@ -7,4 +7,4 @@ const student = {
 
 student["fullName"] = "Darshan Darshu";
 
-console.log(student[fullName])
+console.log(student["fullName"])
