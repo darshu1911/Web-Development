@@ -59,7 +59,7 @@ console.log("a !== c", a !== c)
 
 console.log("a > b", a > b)
 console.log("a <= b", a <= b)
-console.log("a => b", a => b)
+console.log("a => b", a => b)*/
 
 // Logical Operators
 
@@ -102,7 +102,7 @@ console.log(color);
 
 if (mode ==="dark"){
     console.log(mode);
-}*/
+}
 
 
 
