@@ -1,45 +1,149 @@
-div{
-    height: 100px;
-    width: 100px;
-    background-color: palevioletred;
-    border: 2px brown solid;
-    border-radius: 5px;
-    text-align: center;
-   padding: 1px 2px 3px 4px;
-   margin: 10px 5px 2px 10px;
- }
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #6d6e70 !important;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
 
-h1{
-    width: 200px;
-    height: 50px;
-    background-color: aquamarine;
-    border-width: 3px;
-    border-style: dotted;
-    border-radius: 5px;
-    border-color: green;
-    text-align: center;
-}
+  table {
+    border-collapse: collapse;
+  }
 
-div{
-    width: 100px;
-    height: 100px;
-    margin: 25px;
-    padding: 25px;
-    display: inline-block;
-}
+  td {
+    font-family: arial, sans-serif;
+    color: #333333;
+  }
 
-#B1{
-    background-color: rgba(255, 0, 0, 0.25);
-}
+  a {
+    text-decoration: none !important;
+    color: #58595B;
+    cursor: text;
+  }
 
-#B2{
-    background-color: rgba(255, 0, 0, 0.5);
-}
+  sup {
+    line-height: 2px !important;
+    font-size: 75% !important;
+  }
 
-#B3{
-    background-color: rgba(255, 0, 0, 0.75);
-}
+  @media only screen and (max-width: 480px) {
 
-#B4{
-    background-color: rgba(255, 0, 0, 1);
+    body,
+    table,
+    td,
+    p,
+    a,
+    li,
+    blockquote {
+      -webkit-text-size-adjust: none !important;
+    }
+
+    table {
+      width: 100% !important;
+    }
+
+    table #table72 {
+      width: 72% !important;
+    }
+
+    table #discoverBtnL,
+    #discoverBtnR {
+      width: 20% !important;
+    }
+
+    .responsive-image img {
+      height: auto !important;
+      max-width: 100% !important;
+      width: 100% !important;
+    }
+
+    .responsive-image01 img {
+      height: auto !important;
+      max-width: 60% !important;
+      width: 60% !important;
+    }
+
+    .responsive-image02 img {
+      height: auto !important;
+      max-width: 80% !important;
+      width: 80% !important;
+    }
+
+    .bulletText div {
+      font-size: 11px !important;
+      line-height: 13px !important;
+    }
+
+    .bulletText div sup {
+      font-size: 9px !important;
+      line-height: 8px !important;
+    }
+
+    .headTest {
+      font-size: 16px !important;
+      line-height: 18px !important;
+    }
+
+    .headSubTest {
+      font-size: 11px !important;
+      line-height: 13px !important;
+    }
+
+    .center {
+      text-align: center !important;
+    }
+
+    .hideRow {
+      display: none !important;
+    }
+
+    .rowHeight100 {
+      height: 100px !important;
+    }
+
+    .rowHeight66 {
+      height: 66px !important;
+    }
+
+    .templateColumnContainer {
+      display: block !important;
+      width: 100% !important;
+    }
+
+    /* .res1 {
+      font-size: 12px !important;
+      line-height: 15px !important;
+    } */
+
+    .res2 {
+      font-size: 11px !important;
+      line-height: 14px !important;
+    }
+
+    .res3 {
+      font-size: 9px !important;
+      line-height: 13px !important;
+    }
+
+
+    .display-block-img1 {
+      height: auto !important;
+      max-width: 55% !important;
+      width: 55% !important;
+      text-align: center !important;
+      vertical-align: middle !important;
+    }
+
+    .display-block-content {
+      display: block !important;
+      width: 100% !important;
+    }
+
+    .pad2 {
+      padding: 15px 0 0 0 !important;
+    }
+
+    .pad1 {
+      padding: 0px 0 0 0 !important;
+    }
 }
